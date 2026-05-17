@@ -1,0 +1,587 @@
+{
+  "crowdedness": [
+    {
+      "Country": "United States",
+      "RecruitingCount": 11,
+      "TotalCount": 55
+    },
+    {
+      "Country": "Sweden",
+      "RecruitingCount": 2,
+      "TotalCount": 3
+    },
+    {
+      "Country": "Denmark; Denmark; Denmark; Finland; Finland; Netherlands; Netherlands",
+      "RecruitingCount": 1,
+      "TotalCount": 1
+    },
+    {
+      "Country": "Denmark",
+      "RecruitingCount": 1,
+      "TotalCount": 3
+    },
+    {
+      "Country": "Mali",
+      "RecruitingCount": 1,
+      "TotalCount": 1
+    },
+    {
+      "Country": "Indonesia",
+      "RecruitingCount": 1,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United Kingdom",
+      "RecruitingCount": 1,
+      "TotalCount": 2
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States",
+      "RecruitingCount": 1,
+      "TotalCount": 2
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; Argentina; Argentina; Argentina; Argentina; Argentina; Australia; Australia; Australia; Brazil; Brazil; Canada; Canada; Chile; Chile; Chile; Israel; Israel; Israel; Saudi Arabia",
+      "RecruitingCount": 1,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States",
+      "RecruitingCount": 1,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; Poland; Poland; Poland; Poland; Spain; Spain; Spain; Spain; Spain; Spain; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom",
+      "RecruitingCount": 1,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States",
+      "RecruitingCount": 1,
+      "TotalCount": 2
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Poland",
+      "RecruitingCount": 1,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States",
+      "RecruitingCount": 1,
+      "TotalCount": 1
+    },
+    {
+      "Country": "Unknown",
+      "RecruitingCount": 1,
+      "TotalCount": 13
+    },
+    {
+      "Country": "Vietnam",
+      "RecruitingCount": 1,
+      "TotalCount": 1
+    },
+    {
+      "Country": "Australia",
+      "RecruitingCount": 0,
+      "TotalCount": 4
+    },
+    {
+      "Country": "Australia; Australia; Australia; Australia; Australia; Australia; Australia; Australia; Australia; Australia; Australia; Australia; Australia; Australia; Australia; Australia",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "Australia; Australia; Australia; Australia; Australia; Australia; Australia; Australia; Australia; Australia; Australia; Australia; New Zealand; New Zealand; New Zealand; New Zealand; New Zealand; New Zealand; New Zealand; New Zealand; New Zealand; New Zealand; New Zealand",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "Australia; Australia; Australia; Australia; Australia; Australia; Australia; Australia; Australia; Australia; Belgium; France; France; France; France; France; France; France; France; France; France; France; France; France; France; France; France; France; France; France; France; France; France; France; France; France; France; Germany; Germany; Germany; Germany; Germany; Germany; Germany; Netherlands; Netherlands; Spain; Spain; Spain; Spain; Spain; Spain; Spain; Spain; Spain; Spain; Switzerland; Switzerland; United Kingdom; United Kingdom; United Kingdom",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "Australia; Australia; Australia; Australia; Denmark; Germany; Germany; Germany; Germany; Germany; Italy; Italy; Italy; Italy; Netherlands; Netherlands",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "Australia; Australia; Australia; Austria; Czechia; Czechia; Germany; Germany; Israel; Israel; Russia; Russia; Spain; Spain; Spain; Spain",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "Austria",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "Austria; Austria; Austria; Austria; Austria; Austria; Austria; Austria; Austria",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "Brazil",
+      "RecruitingCount": 0,
+      "TotalCount": 4
+    },
+    {
+      "Country": "Bulgaria; Bulgaria; Bulgaria; Bulgaria; Bulgaria; Bulgaria; Bulgaria; Bulgaria; Bulgaria; Hungary; Hungary; Hungary; Hungary; Hungary; Hungary; Hungary; Hungary; Hungary; Hungary; Lithuania; Lithuania; Lithuania; Romania; Romania; Romania; Romania; Romania; Romania; Romania; Romania; Romania; Romania; Romania; Romania; Slovakia; Slovakia; Slovakia; Slovakia; Slovakia; Slovakia; Slovakia; Slovakia; Slovakia",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "Canada",
+      "RecruitingCount": 0,
+      "TotalCount": 5
+    },
+    {
+      "Country": "Canada; Canada",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "Chile",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "China",
+      "RecruitingCount": 0,
+      "TotalCount": 4
+    },
+    {
+      "Country": "Egypt",
+      "RecruitingCount": 0,
+      "TotalCount": 2
+    },
+    {
+      "Country": "Estonia; France; France; France; France; France; France; France; France; France; Germany; Germany; Germany; Germany; Germany; Germany; Germany; Germany; Germany; Germany; Germany; Germany; Germany; Germany; Greece; Greece; Greece; Greece; Greece; Greece; Greece; Greece; Norway; Norway; Norway; Norway; Russia; Russia; Russia; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "France; France",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "France; France; France; France; France; France",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "Germany",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "Germany; Germany",
+      "RecruitingCount": 0,
+      "TotalCount": 2
+    },
+    {
+      "Country": "Germany; Germany; Italy; Italy; Italy; Italy; Poland; Poland; Poland; Poland",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "Hong Kong",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "Israel",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "Italy; Italy; Italy",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "Japan",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "Japan; Japan; Japan",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "Japan; Japan; Japan; Japan; Japan; Japan; Japan",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "Mexico",
+      "RecruitingCount": 0,
+      "TotalCount": 2
+    },
+    {
+      "Country": "Netherlands",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "Norway; Norway",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "Pakistan",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "Philippines; Philippines",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "Russia; Russia; Russia; Russia; Russia; Russia",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "South Africa; South Africa; South Africa; South Africa",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "South Korea",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "Switzerland",
+      "RecruitingCount": 0,
+      "TotalCount": 3
+    },
+    {
+      "Country": "Thailand; Thailand",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United Kingdom; United Kingdom",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; India; India; India; Malaysia",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States",
+      "RecruitingCount": 0,
+      "TotalCount": 5
+    },
+    {
+      "Country": "United States; United States; India; India; India; India; India; India; India; India",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States",
+      "RecruitingCount": 0,
+      "TotalCount": 3
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United Kingdom",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States",
+      "RecruitingCount": 0,
+      "TotalCount": 2
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States",
+      "RecruitingCount": 0,
+      "TotalCount": 2
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; Italy; Italy; Italy; Italy; Spain; Spain",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; Austria; Austria; Austria; Austria; Austria; Belgium; Belgium; Belgium; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Denmark; Denmark; Denmark; Finland; Finland; Finland; Ireland; Ireland; Ireland; Israel; Israel; Israel; Israel; Italy; Italy; Italy; Italy; Norway; Norway; Poland; Poland; Poland; Poland; Portugal; Portugal; Portugal; Portugal; Portugal; Portugal; Russia; Russia; Russia; Russia; Russia; Russia; Russia; Russia; Russia; Russia; Russia; Russia; Russia; Russia; Serbia; Serbia; Spain; Spain; Spain; Spain; Spain; Spain; Spain; Spain; Sweden; Sweden; Sweden; Sweden; Ukraine; Ukraine; Ukraine; Ukraine; Ukraine; Ukraine; Ukraine; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Czechia; Czechia; Czechia; Czechia; Germany; Germany; Germany; Germany; Germany; Germany; Italy; Italy; Italy; Italy; Italy",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; Taiwan; Taiwan; Taiwan; Taiwan; Taiwan; Taiwan; Taiwan; Taiwan",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States",
+      "RecruitingCount": 0,
+      "TotalCount": 2
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; South Africa; South Africa; South Africa; South Africa; South Africa; South Africa",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; Argentina; Austria; Brazil; Brazil; Brazil; Canada; Canada; France; France; France; France; France; France; Germany; Germany; Germany; Germany; Germany; Italy; Italy; Italy; Italy; Spain",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; Australia; Australia",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; Belgium",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; Bulgaria; Bulgaria; Bulgaria; Bulgaria; Bulgaria; Bulgaria; Bulgaria; Bulgaria; Bulgaria; Bulgaria; Bulgaria; Bulgaria; Bulgaria; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Czechia; Czechia; Czechia; Czechia; Czechia; Czechia; Czechia; Czechia; Czechia; Czechia; Czechia; Germany; Germany; Germany; Germany; Germany; Germany; Germany; Germany; Germany; Germany; Germany; Germany; Germany; Germany; Germany; Germany; Germany; Germany; Germany; Mexico; Mexico; Mexico; Mexico; Mexico; Mexico; Russia; Russia; Russia; Russia; Russia; Russia; Russia; Russia; Russia; Russia; Russia; Russia; Russia; Russia; Russia; Russia; Slovakia; Slovakia; Slovakia; Slovakia; Slovakia; Slovakia; Slovakia; Slovakia; Slovakia; Slovakia; Slovakia; Slovakia; Slovakia; Slovakia; Slovakia; Slovakia; Slovakia",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Poland",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; Argentina; Argentina; Argentina; Argentina; Argentina; Argentina; Argentina; Argentina; Belgium; Belgium; Belgium; Belgium; Belgium; Belgium; China; China; China; China; China; China; China; China; China; China; China; China; China; China; China; China; China; China; Greece; Greece; Greece; Greece; Greece; Greece; Greece; Greece; India; India; India; India; India; India; Italy; Italy; Italy; Italy; Italy; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan; Portugal; Portugal; Portugal; Portugal; Portugal; Portugal; Portugal; Portugal; Portugal; Portugal; Singapore; Singapore; Singapore; Singapore; Singapore; Singapore; Slovakia; Slovakia; Slovakia; Slovakia; Slovakia; Slovakia; Slovakia; Slovakia; Slovakia; Spain; Spain; Spain; Spain; Spain; Spain; Spain; Spain; Spain; Spain; Sweden; Sweden; Sweden; Sweden; Sweden; Taiwan; Taiwan; Taiwan; Taiwan; Taiwan; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States",
+      "RecruitingCount": 0,
+      "TotalCount": 2
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; Poland; Poland; Poland; Poland; Poland; Poland; Puerto Rico; Puerto Rico; Puerto Rico; Slovakia; Slovakia; Slovakia; Slovakia; Slovakia",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; Australia; Australia; Australia; Australia; Canada; Canada; Canada; Italy; Sweden; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; Poland; Romania; Romania; Romania; Romania; Romania",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States",
+      "RecruitingCount": 0,
+      "TotalCount": 2
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; Australia; Australia; Australia; Australia; Australia; Australia; Australia; Australia; Australia; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Israel; Israel; Israel; Israel; Israel; Israel; Israel; Israel; Israel; Israel; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Taiwan; Taiwan; Taiwan; Taiwan; Taiwan",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; Belgium; Belgium; France; France; France; France; France; Mexico; Mexico; Mexico; Puerto Rico",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; Bulgaria; Bulgaria; Bulgaria; Bulgaria; Bulgaria; Bulgaria; Bulgaria; Denmark; Denmark; Denmark; Greece; Greece; Greece; Greece; Greece; Greece; Greece; Greece; Hungary; Hungary; Hungary; Hungary; Hungary; Hungary; Hungary; Hungary; Hungary; Hungary; Hungary; Hungary; Hungary; Japan; Japan; Japan; Japan; Japan; Japan; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Russia; Russia; Russia; Russia; Serbia; Serbia; Serbia; Serbia",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    },
+    {
+      "Country": "United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; United States; Argentina; Argentina; Argentina; Australia; Australia; Australia; Australia; Australia; Australia; Australia; Brazil; Brazil; Brazil; Brazil; Brazil; Brazil; Brazil; Brazil; Brazil; Brazil; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada; Czechia; Czechia; Czechia; Czechia; Czechia; France; France; France; France; France; France; Italy; Italy; Italy; Mexico; Mexico; Mexico; Mexico; Netherlands; Netherlands; Netherlands; Netherlands; Netherlands; Netherlands; Netherlands; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Poland; Puerto Rico; Puerto Rico; South Africa; South Africa; South Africa; South Africa; South Africa; Spain; Spain; Spain; Spain; Spain; Spain; Spain; Spain; Spain; Sweden; Sweden; Sweden; Sweden; Sweden; Sweden; Sweden; Sweden; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom",
+      "RecruitingCount": 0,
+      "TotalCount": 1
+    }
+  ],
+  "cycle_time": {
+    "n": 94,
+    "median_days": 668.5,
+    "mean_days": 930.0851063829788,
+    "std_days": 782.9049662809708
+  },
+  "trend_by_start_year": [
+    {
+      "Year": 1999,
+      "Count": 2
+    },
+    {
+      "Year": 2002,
+      "Count": 2
+    },
+    {
+      "Year": 2003,
+      "Count": 4
+    },
+    {
+      "Year": 2004,
+      "Count": 1
+    },
+    {
+      "Year": 2005,
+      "Count": 7
+    },
+    {
+      "Year": 2006,
+      "Count": 4
+    },
+    {
+      "Year": 2007,
+      "Count": 9
+    },
+    {
+      "Year": 2008,
+      "Count": 5
+    },
+    {
+      "Year": 2009,
+      "Count": 14
+    },
+    {
+      "Year": 2010,
+      "Count": 7
+    },
+    {
+      "Year": 2011,
+      "Count": 9
+    },
+    {
+      "Year": 2012,
+      "Count": 11
+    },
+    {
+      "Year": 2013,
+      "Count": 5
+    },
+    {
+      "Year": 2014,
+      "Count": 7
+    },
+    {
+      "Year": 2015,
+      "Count": 5
+    },
+    {
+      "Year": 2016,
+      "Count": 4
+    },
+    {
+      "Year": 2018,
+      "Count": 1
+    },
+    {
+      "Year": 2020,
+      "Count": 1
+    },
+    {
+      "Year": 2021,
+      "Count": 1
+    },
+    {
+      "Year": 2025,
+      "Count": 1
+    },
+    {
+      "Year": 2026,
+      "Count": 2
+    }
+  ],
+  "n_total_studies": 200
+}

@@ -1,0 +1,7 @@
+{
+  "canonical": {
+    "diabetes mellitus": ["diabetes", "type 2 diabetes", "t2dm", "dm2", "type II diabetes"],
+    "breast cancer": ["breast cancer", "breast carcinoma", "mammary carcinoma"],
+    "covid-19": ["covid", "covid19", "sars-cov-2", "coronavirus disease 2019"]
+  }
+}

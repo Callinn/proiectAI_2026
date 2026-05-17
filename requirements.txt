@@ -1,0 +1,9 @@
+requests>=2.28
+pandas>=1.5
+plotly>=5.0
+pycountry>=22.3
+spacy>=3.0
+kaleido>=0.2
+python-pptx>=0.6
+ollama>=0.3
+flask>=3.0
