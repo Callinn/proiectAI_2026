@@ -2,8 +2,8 @@ Clinical Trial Radar - analiza fezabilitatii studiilor clinice
 
 Echipa
 
-- Calin Ursoiu
-- Vranciu Andra
+Calin Ursoiu
+Vranciu Andra
 
 Despre proiect
 
