@@ -146,7 +146,7 @@ class Agent:
             tb = traceback.format_exc()
             return {'status':'error','error': str(e), 'trace': tb}
 
-    def run(self, instruction: str, use_llm: bool = False) -> Dict[str, Any]:
+    def run(self, instruction: str, use_llm: bool = True) -> Dict[str, Any]:
         """Main entry: plan and execute steps for a natural-language instruction.
 
         If use_llm=True and Ollama is configured, the agent will ask the local model to plan.
@@ -198,18 +198,47 @@ class Agent:
             except Exception:
                 return str(path_value).replace('\\', '/')
 
-        try:
-            ingest_path = fetch_and_save_studies(safe_disease, safe_phase, max_results=200, out_dir=str(raw_dir))
-            input_path = ingest_path
-        except Exception as exc:
-            warnings.append(f"Ingest failed: {exc}")
-            fallback_csvs = sorted(raw_dir.glob('*.csv'), key=lambda p: p.stat().st_mtime, reverse=True)
-            if fallback_csvs:
-                input_path = str(fallback_csvs[0])
-                warnings.append(f"Using latest cached CSV: {input_path}")
+        # Build instruction and plan (use LLM implicitly if configured)
+        instruction = f'Ingest studies for "{safe_disease}" {safe_phase}, compute metrics, produce trend and map and snapshot'
+        planner_name = 'rule-based'
+        plan_steps: List[Dict[str, Any]] = []
+        if self.llm:
+            try:
+                plan_steps = self.plan_with_llm(instruction)
+                planner_name = 'llm'
+            except Exception as exc:
+                warnings.append(f'LLM planning failed: {exc}')
+                plan_steps = self.rule_based_plan(instruction)
+        else:
+            plan_steps = self.rule_based_plan(instruction)
 
+        # Execute planned steps
+        executed_results: List[Dict[str, Any]] = []
+        metrics: Optional[Dict[str, Any]] = None
+        for step in plan_steps:
+            r = self.execute_step(step)
+            executed_results.append({'step': step, 'result': r})
+            # track ingest result as input_path
+            if step.get('action') == 'ingest' and r.get('result'):
+                input_path = r.get('result')
+                ingest_path = r.get('result')
+            # handle metrics result
+            if step.get('action') == 'metrics' and r.get('result'):
+                res = r.get('result')
+                # if metrics saved to file
+                if isinstance(res, str) and os.path.exists(res):
+                    try:
+                        with open(res, 'r', encoding='utf-8') as f:
+                            metrics = json.load(f)
+                    except Exception:
+                        metrics = None
+                elif isinstance(res, dict):
+                    metrics = res
+
+        # If metrics not produced by plan, compute from input_path
         try:
-            metrics = compute_metrics_from_path(input_path)
+            if metrics is None:
+                metrics = compute_metrics_from_path(input_path)
         except Exception as exc:
             warnings.append(f"Metrics failed: {exc}")
             metrics = {
@@ -293,6 +322,9 @@ class Agent:
             'trend_points': len(metrics.get('trend_by_start_year', [])),
             'artifacts': artifacts,
             'warnings': warnings,
+            'planner': planner_name,
+            'plan_steps': plan_steps,
+            'llm_used': bool(self.llm),
         }
         return summary
 
