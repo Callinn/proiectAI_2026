@@ -236,7 +236,8 @@ window.addEventListener('DOMContentLoaded', () => {
 
 def create_app() -> Flask:
     app = Flask(__name__)
-    agent = Agent(llm_provider=None, model="mistral")
+    # prefer local Ollama LLM when available; Agent will set self.llm only if OLLAMA_AVAILABLE
+    agent = Agent(llm_provider='ollama', model="mistral")
     latest_report: Dict[str, Any] = {}
 
     @app.get("/")
